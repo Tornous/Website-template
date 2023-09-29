@@ -1,1 +1,1 @@
-# my-new-homepage
+# Website Template
